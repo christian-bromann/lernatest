@@ -1,6 +1,8 @@
 [submodule "packages/lernapkg1"]
 	path = packages/lernapkg1
 	url = git@github.com:christian-bromann/lernapkg1.git
+  ignore = all
 [submodule "packages/lernapkg2"]
 	path = packages/lernapkg2
 	url = git@github.com:christian-bromann/lernapkg2.git
+  ignore = all
