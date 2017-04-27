@@ -6,3 +6,7 @@
 	path = packages/lernapkg2
 	url = git@github.com:christian-bromann/lernapkg2.git
   ignore = all
+[submodule "packages/lernamain"]
+	path = packages/lernamain
+	url = git@github.com:christian-bromann/lernamain.git
+  ignore = all
